@@ -1,0 +1,32 @@
+var printData = {
+    Customername:"冒菜麻辣烫民族风情",
+    beizhu:"",
+    salername:"重庆食品有限公司",
+    kaddress:"(民族风情城店)正舟路北段368号",
+    adress:"茶园沟巷111号7栋",
+    phone:"1384757505200",
+    tel:"177642525748",
+    chayan:"刘江",
+    name: '黄磊',
+    password: '12346',
+    careateuser:"刘成",
+    enddate:"保存期限不得少于食品保质期满",
+    longText: '浙江在线3月29日讯',
+    buydate:"2024-10-11",
+    manuser:"马兴宇",
+    senduser:"马兴宇",
+    poseteruser:"马兴宇",
+    saleruser:"马兴宇",
+    table: [
+        { id: '1', name: '王小可', gender: '男', count: '120', amount: '9089元' },
+        { id: '2', name: '梦之遥', gender: '女', count: '20', amount: '89元' },
+        { id: '3', name: '梦之遥', gender: '女', count: '720', amount: '29089元' },
+        { id: '4', name: '黄小菊', gender: '女', count: '420', amount: '19089元' },
+        { id: '5', name: '黄小菊', gender: '女', count: '420', amount: '19089元' },
+        { id: '6', name: '黄小菊', gender: '女', count: '420', amount: '19089元' },
+        { id: '7', name: '黄小菊', gender: '女', count: '420', amount: '19089元' },
+        { id: '8', name: '黄小菊', gender: '女', count: '420', amount: '19089元' },
+        { id: '9', name: '黄小菊', gender: '女', count: '420', amount: '19089元' },
+        { id: '10', name: '黄小菊', gender: '女', count: '420', amount: '19089元' }
+    ]
+};
